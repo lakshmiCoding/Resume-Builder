@@ -1,0 +1,33 @@
+.box-title{
+    width: 100%;
+    background: rgb(56 143 192);
+    text-align: center;
+    color: #ffffff;
+    font-size: 2rem;
+    padding: 10px 0;
+}
+.btn-submit{
+    background: #388fc0;
+    color: #ffffff;
+    margin: 20px 0;
+    border-radius: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.section-title{
+    border-bottom: 1px solid #00000052;
+    font-size: 1.4rem;
+    padding: 8px 0;
+}
+.form-group{
+    margin-bottom: 0;
+}
+.inputForm{
+    display: flex;
+    flex-direction: column;
+}
+.form-control{
+    background: rgb(0 0 0 / 4%);
+    border: none;
+    height: 50px;
+}
